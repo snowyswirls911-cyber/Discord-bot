@@ -1,0 +1,11 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
+}
